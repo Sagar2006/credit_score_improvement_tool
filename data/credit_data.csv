@@ -1,0 +1,5 @@
+income,debt,credit_score,employment_status,marital_status
+50000,10000,580,Employed,Single
+60000,5000,650,Employed,Married
+45000,15000,550,Unemployed,Single
+70000,2000,720,Employed,Married
